@@ -197,10 +197,6 @@ cout<<"enters  number"<<endl;
     cin>>a;
     cout<<fact(a)<<endl;
     break;
-
-
-
-
    
    default:
    cout<<"invalid";
